@@ -1,9 +1,3 @@
-/**********************************************************************
-  Filename    : Drive Stepper Motor
-  Description : Use ULN2003 to drive the stepper motor.
-  Auther      : www.freenove.com
-  Modification: 2020/07/11
-**********************************************************************/
 #include <ESP32Servo.h>
 
 Servo myservo;  // create servo object to control a servo
